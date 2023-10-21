@@ -1,3 +1,7 @@
-## test##
+## pages-portfolio ##
 
-a simple pages-based portfolio / HTML test
+... a simple html page test in github.pages
+
+### stuff ###
+
+would go here
